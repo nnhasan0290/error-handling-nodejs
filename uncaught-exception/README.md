@@ -1,0 +1,1 @@
+uncaught exception happens when we call something which is not defined.
